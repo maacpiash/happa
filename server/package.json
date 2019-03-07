@@ -1,0 +1,20 @@
+{
+  "name": "hapicrud",
+  "version": "1.0.0",
+  "description": "Hapi.js + React.js CRUD App with Auth",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Md. Abdul Ahad Chowdhury",
+  "license": "ISC",
+  "dependencies": {
+    "hapi": "^18.1.0",
+    "hapi-pino": "^5.4.1",
+    "inert": "^5.1.2"
+  },
+  "devDependencies": {
+    "nodemon": "^1.18.10"
+  }
+}
